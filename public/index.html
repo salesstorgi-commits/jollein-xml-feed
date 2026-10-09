@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="el"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jollein XML</title><style>body{font:17px system-ui;color:#20352b;background:#f5f6f2;margin:0;padding:10vh 24px}main{max-width:620px;margin:auto}h1{font-size:36px}a{display:inline-block;background:#244b39;color:white;padding:15px 22px;border-radius:8px;text-decoration:none}p{line-height:1.6}.date{color:#59645c}</style></head>
+<body><main><h1>Jollein XML προϊόντων</h1><p id="count">Ενημερωμένο αρχείο προϊόντων.</p>
+<p class="date" id="date"></p><a href="products.xml" download>Λήψη XML</a></main>
+<script>fetch('status.json',{cache:'no-store'}).then(r=>r.json()).then(s=>{document.getElementById('count').textContent=s.product_count+' ανεξάρτητα προϊόντα';document.getElementById('date').textContent='Έλεγχος στοιχείων Jollein: '+new Intl.DateTimeFormat('el-GR',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Athens'}).format(new Date(s.source_checked_at));});</script></body></html>

@@ -1,0 +1,14 @@
+{
+  "source": "https://jollein.com",
+  "source_checked_at": "2026-10-09T09:34:03.336041+00:00",
+  "generated_at": "2026-10-09T13:11:12.334407+00:00",
+  "product_count": 1638,
+  "source_product_count": null,
+  "markup_percent": 20,
+  "availability_counts": {
+    "Εξαντλημένο": 224,
+    "Διαθέσιμο έως 30 εργάσιμες": 1414
+  },
+  "failures": [],
+  "xml_sha256": "a4bdcf05e7e698402af199e2f7d86650ab582bacf6d2d9a0784978ba45c3a729"
+}
