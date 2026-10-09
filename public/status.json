@@ -10,5 +10,13 @@
     "Διαθέσιμο έως 30 εργάσιμες": 1414
   },
   "failures": [],
-  "xml_sha256": "a4bdcf05e7e698402af199e2f7d86650ab582bacf6d2d9a0784978ba45c3a729"
+  "xml_sha256": "a4bdcf05e7e698402af199e2f7d86650ab582bacf6d2d9a0784978ba45c3a729",
+  "change_summary": {
+    "added": 0,
+    "removed": 0,
+    "changed": 0,
+    "price": 0,
+    "stock": 0,
+    "availability": 0
+  }
 }

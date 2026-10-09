@@ -18,6 +18,7 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 import jollein_to_woocommerce as crawler
 import csv_to_xml
+import feed_changes
 
 
 def check_feed(path, source):
@@ -54,6 +55,7 @@ def check_feed(path, source):
 
 def render_public_files(source, output, source_checked_at, source_product_count=None):
     output.mkdir(parents=True, exist_ok=True)
+    previous = ET.parse(output / 'products.xml').getroot() if (output / 'products.xml').exists() else None
     temporary_xml = output / 'products.next.xml'
     csv_to_xml.convert(source, temporary_xml, standalone=True, markup_percent=Decimal('20'),
                        availability_labels=True)
@@ -65,11 +67,13 @@ def render_public_files(source, output, source_checked_at, source_product_count=
     ET.ElementTree(root).write(temporary_xml, encoding='utf-8', xml_declaration=True)
     # Publish only after the complete file has been validated.
     ET.parse(temporary_xml)
+    change_summary = feed_changes.save_change_report(output, previous, root, source_checked_at, now)
     temporary_xml.replace(output / 'products.xml')
     status = {'source': crawler.BASE, 'source_checked_at': source_checked_at,
               'generated_at': now, 'product_count': len(root.findall('product')),
               'source_product_count': source_product_count, 'markup_percent': 20,
               'availability_counts': dict(counts), 'failures': [],
+              'change_summary': change_summary,
               'xml_sha256': hashlib.sha256((output / 'products.xml').read_bytes()).hexdigest()}
     crawler.atomic_json(output / 'status.json', status)
     (output / '.nojekyll').write_text('', encoding='utf-8')
@@ -77,7 +81,7 @@ def render_public_files(source, output, source_checked_at, source_product_count=
 <html lang="el"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Jollein XML</title><style>body{font:17px system-ui;color:#20352b;background:#f5f6f2;margin:0;padding:10vh 24px}main{max-width:620px;margin:auto}h1{font-size:36px}a{display:inline-block;background:#244b39;color:white;padding:15px 22px;border-radius:8px;text-decoration:none}p{line-height:1.6}.date{color:#59645c}</style></head>
 <body><main><h1>Jollein XML προϊόντων</h1><p id="count">Ενημερωμένο αρχείο προϊόντων.</p>
-<p class="date" id="date"></p><a href="products.xml" download>Λήψη XML</a></main>
+<p class="date" id="date"></p><a href="products.xml" download>Λήψη XML</a><p><a href="changes.html">Τι άλλαξε στην τελευταία ενημέρωση</a> · <a href="updates.html">Ιστορικό όλων των ενημερώσεων</a></p></main>
 <script>fetch('status.json',{cache:'no-store'}).then(r=>r.json()).then(s=>{document.getElementById('count').textContent=s.product_count+' ανεξάρτητα προϊόντα';document.getElementById('date').textContent='Έλεγχος στοιχείων Jollein: '+new Intl.DateTimeFormat('el-GR',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Athens'}).format(new Date(s.source_checked_at));});</script></body></html>''', encoding='utf-8')
     return status
 

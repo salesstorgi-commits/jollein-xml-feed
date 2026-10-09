@@ -1,0 +1,20 @@
+{
+  "baseline": false,
+  "previous_count": 1638,
+  "current_count": 1638,
+  "added": [],
+  "removed": [],
+  "changed": [],
+  "summary": {
+    "added": 0,
+    "removed": 0,
+    "changed": 0,
+    "price": 0,
+    "stock": 0,
+    "availability": 0
+  },
+  "source_checked_at": "2026-10-09T09:34:03.336041+00:00",
+  "generated_at": "2026-10-09T13:58:44.681875+00:00",
+  "run_url": "",
+  "reason": "tracking_enabled"
+}
