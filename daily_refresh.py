@@ -78,11 +78,66 @@ def render_public_files(source, output, source_checked_at, source_product_count=
     crawler.atomic_json(output / 'status.json', status)
     (output / '.nojekyll').write_text('', encoding='utf-8')
     (output / 'index.html').write_text('''<!doctype html>
-<html lang="el"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Jollein XML</title><style>body{font:17px system-ui;color:#20352b;background:#f5f6f2;margin:0;padding:10vh 24px}main{max-width:620px;margin:auto}h1{font-size:36px}a{display:inline-block;background:#244b39;color:white;padding:15px 22px;border-radius:8px;text-decoration:none}p{line-height:1.6}.date{color:#59645c}</style></head>
-<body><main><h1>Jollein XML προϊόντων</h1><p id="count">Ενημερωμένο αρχείο προϊόντων.</p>
-<p class="date" id="date"></p><a href="products.xml" download>Λήψη XML</a><p><a href="changes.html">Τι άλλαξε στην τελευταία ενημέρωση</a> · <a href="updates.html">Ιστορικό όλων των ενημερώσεων</a></p></main>
-<script>fetch('status.json',{cache:'no-store'}).then(r=>r.json()).then(s=>{document.getElementById('count').textContent=s.product_count+' ανεξάρτητα προϊόντα';document.getElementById('date').textContent='Έλεγχος στοιχείων Jollein: '+new Intl.DateTimeFormat('el-GR',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Athens'}).format(new Date(s.source_checked_at));});</script></body></html>''', encoding='utf-8')
+<html lang="el">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Jollein XML</title>
+  <style>
+    *{box-sizing:border-box}
+    body{font:17px system-ui,sans-serif;color:#20352b;background:#f5f6f2;margin:0;padding:10vh 24px}
+    main{max-width:740px;margin:auto}
+    h1{font-size:clamp(28px,5vw,36px);letter-spacing:-.8px;margin:0 0 18px}
+    p{line-height:1.6}
+    .date{color:#59645c;font-size:15px;margin-bottom:28px}
+    .actions{display:flex;flex-wrap:wrap;gap:12px}
+    .button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:13px 22px;border:1px solid transparent;border-radius:12px;font:600 16px system-ui,sans-serif;text-decoration:none;line-height:1.4;transition:background .15s,border-color .15s}
+    .button svg{width:20px;height:20px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+    .primary{color:#fff;background:#244b39;box-shadow:0 3px 8px #244b391a}
+    .primary:hover{background:#183a29}
+    .secondary{color:#244b39;background:#fff;border-color:#c9d5cc}
+    .secondary:hover{background:#eaf0e9;border-color:#8da594}
+    a:focus-visible{outline:3px solid #9d6b19;outline-offset:4px}
+    .feed-link{margin:20px 0 0;font-size:14px;color:#59645c}
+    .feed-link a{display:block;color:#244b39;overflow-wrap:anywhere;text-underline-offset:3px;margin-top:4px}
+    .history{margin-top:34px;padding-top:24px;border-top:1px solid #dbe2d8}
+    .history .button{font-size:14px;padding:11px 16px;min-height:46px}
+    @media(max-width:480px){body{padding:48px 20px}.actions{flex-direction:column}.button{width:100%}.date{margin-bottom:24px}}
+    @media(prefers-reduced-motion:reduce){.button{transition:none}}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Jollein XML προϊόντων</h1>
+    <p id="count">Ενημερωμένο αρχείο προϊόντων.</p>
+    <p class="date" id="date"></p>
+    <nav class="actions" aria-label="Αρχείο XML">
+      <a class="button primary" href="products.xml" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7M21 3l-10 10M10 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5"/></svg>
+        Άνοιγμα XML
+      </a>
+      <a class="button secondary" href="products.xml" download="products.xml">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v4a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-4"/></svg>
+        Λήψη XML
+      </a>
+    </nav>
+    <p class="feed-link">Σταθερός σύνδεσμος XML για εισαγωγή:
+      <a href="products.xml" target="_blank" rel="noopener">https://salesstorgi-commits.github.io/jollein-xml-feed/products.xml</a>
+    </p>
+    <nav class="actions history" aria-label="Αλλαγές προϊόντων">
+      <a class="button secondary" href="changes.html">Τελευταίες αλλαγές</a>
+      <a class="button secondary" href="updates.html">Ιστορικό ενημερώσεων</a>
+    </nav>
+  </main>
+  <script>
+    fetch('status.json',{cache:'no-store'}).then(r=>r.json()).then(s=>{
+      document.getElementById('count').textContent=s.product_count+' ανεξάρτητα προϊόντα';
+      document.getElementById('date').textContent='Έλεγχος στοιχείων Jollein: '+new Intl.DateTimeFormat('el-GR',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Athens'}).format(new Date(s.source_checked_at));
+    });
+  </script>
+</body>
+</html>
+''', encoding='utf-8')
     return status
 
 
