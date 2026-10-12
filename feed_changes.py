@@ -29,7 +29,7 @@ def canonical_products(root):
             match = re.fullmatch(r'attribute_(\d+)_name', tag)
             if match and value:
                 attributes['Χαρακτηριστικό: ' + value] = cells.get('attribute_' + match.group(1) + '_value_s', '')
-            elif not tag.startswith('attribute_') and tag not in ('notes', 'meta_source_attributes'):
+            elif not tag.startswith('attribute_') and tag not in ('notes', 'meta_source_attributes', 'stock_status'):
                 fields[tag] = value
         for marker, key in [('Currency', 'currency'), ('VAT basis', 'vat_basis')]:
             match = re.search(r'(?:^|;\s*)' + marker + r':\s*([^;]+)', cells.get('notes', ''))

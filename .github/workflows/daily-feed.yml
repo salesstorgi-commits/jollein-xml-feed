@@ -51,8 +51,9 @@ jobs:
       - name: Fresh complete supplier crawl
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_source)
         run: python daily_refresh.py --output public
+      - name: Add direct WooCommerce stock status codes
+        run: python feed_fields.py --output public
       - name: Keep daily schedule active and retain latest validated feed
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_source)
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

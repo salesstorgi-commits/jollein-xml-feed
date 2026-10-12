@@ -19,6 +19,7 @@ import xml.etree.ElementTree as ET
 import jollein_to_woocommerce as crawler
 import csv_to_xml
 import feed_changes
+import feed_fields
 
 
 def check_feed(path, source):
@@ -50,6 +51,7 @@ def check_feed(path, source):
         effective = product.findtext('sale_price') or product.findtext('regular_price') or ''
         price = ET.SubElement(product, 'price')
         price.text = effective
+    feed_fields.ensure_stock_status(root)
     return root, counts
 
 
