@@ -1,22 +1,22 @@
 {
   "source": "https://jollein.com",
-  "source_checked_at": "2026-10-20T09:45:14.955895+00:00",
-  "generated_at": "2026-10-20T09:45:16.551428+00:00",
-  "product_count": 1612,
-  "source_product_count": 798,
+  "source_checked_at": "2026-10-21T09:41:48.339480+00:00",
+  "generated_at": "2026-10-21T09:41:50.147739+00:00",
+  "product_count": 1605,
+  "source_product_count": 797,
   "markup_percent": 20,
   "availability_counts": {
-    "Εξαντλημένο": 223,
-    "Διαθέσιμο έως 30 εργάσιμες": 1389
+    "Εξαντλημένο": 220,
+    "Διαθέσιμο έως 30 εργάσιμες": 1385
   },
   "failures": [],
   "change_summary": {
     "added": 0,
-    "removed": 0,
-    "changed": 1192,
+    "removed": 7,
+    "changed": 1081,
     "price": 0,
-    "stock": 1192,
-    "availability": 21
+    "stock": 1073,
+    "availability": 12
   },
-  "xml_sha256": "68a5948c88c43e3f3fd4f835b482efcc77a422dc20dc79350133ec61a597fe25"
+  "xml_sha256": "b09db57147026824f61e0e3ec2cd72f855de9417611cf8635d35e60b39e78ca9"
 }
