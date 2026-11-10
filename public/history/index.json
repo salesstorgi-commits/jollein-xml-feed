@@ -1,5 +1,19 @@
 [
   {
+    "id": "20261110T135009834892Z",
+    "generated_at": "2026-11-10T13:50:09.834892+00:00",
+    "source_checked_at": "2026-11-10T13:50:08.821623+00:00",
+    "summary": {
+      "added": 0,
+      "removed": 0,
+      "changed": 1110,
+      "price": 0,
+      "stock": 1107,
+      "availability": 10
+    },
+    "run_url": "https://github.com/salesstorgi-commits/jollein-xml-feed/actions/runs/42821986725"
+  },
+  {
     "id": "20261109T141036566823Z",
     "generated_at": "2026-11-09T14:10:36.566823+00:00",
     "source_checked_at": "2026-11-09T14:10:35.163289+00:00",
