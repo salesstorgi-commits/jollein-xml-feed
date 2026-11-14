@@ -1,0 +1,6777 @@
+{
+  "baseline": false,
+  "previous_count": 1582,
+  "current_count": 1582,
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "sku": "00100007",
+      "name": "Rain Cover - Transparent / Buggy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "148",
+          "after": "139"
+        }
+      ]
+    },
+    {
+      "sku": "00100121",
+      "name": "Washcloth Muslin - Basic - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1005",
+          "after": "1007"
+        }
+      ]
+    },
+    {
+      "sku": "002-001-68142",
+      "name": "Veil Vintage 155cm - Cosy Check",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "459",
+          "after": "460"
+        }
+      ]
+    },
+    {
+      "sku": "002-005-00093",
+      "name": "Canopy Vintage 245cm - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "667",
+          "after": "663"
+        }
+      ]
+    },
+    {
+      "sku": "002-005-66081",
+      "name": "Canopy Vintage Ruffle 245cm - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "567",
+          "after": "565"
+        }
+      ]
+    },
+    {
+      "sku": "002-005-67099",
+      "name": "Canopy Vintage 245cm - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1084",
+          "after": "1083"
+        }
+      ]
+    },
+    {
+      "sku": "004-895-68173",
+      "name": "Playpen Bumper - Little Waffle",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "211",
+          "after": "210"
+        }
+      ]
+    },
+    {
+      "sku": "008-511-66041",
+      "name": "Sheet - Ruffle - Natural / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "31",
+          "after": "32"
+        }
+      ]
+    },
+    {
+      "sku": "008-511-67031",
+      "name": "Sheet - Lace",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "315",
+          "after": "316"
+        }
+      ]
+    },
+    {
+      "sku": "008-511-68105",
+      "name": "Sheet - Leafy Dreams - Multicolor / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "888",
+          "after": "884"
+        }
+      ]
+    },
+    {
+      "sku": "008-511-68199",
+      "name": "Sheet - Woolly - Multicolor / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "573",
+          "after": "572"
+        }
+      ]
+    },
+    {
+      "sku": "008-524-67045",
+      "name": "Sheet - Retro Flowers",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "42",
+          "after": "44"
+        }
+      ]
+    },
+    {
+      "sku": "008-524-67102",
+      "name": "Sheet - Twinkling - Sea Green / 120x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "149",
+          "after": "148"
+        }
+      ]
+    },
+    {
+      "sku": "008-524-67104",
+      "name": "Sheet - Lovely Birds - Multicolor / 120x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "362",
+          "after": "361"
+        }
+      ]
+    },
+    {
+      "sku": "008-524-68154",
+      "name": "Sheet - Animal Friends - Multicolor / 120x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "527",
+          "after": "526"
+        }
+      ]
+    },
+    {
+      "sku": "009-001-00001",
+      "name": "Support for Veil - White / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "648",
+          "after": "647"
+        }
+      ]
+    },
+    {
+      "sku": "009-001-00021",
+      "name": "Support for Veil - Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "25",
+          "after": "24"
+        }
+      ]
+    },
+    {
+      "sku": "009-005-00001",
+      "name": "Support for Canopy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "832",
+          "after": "827"
+        }
+      ]
+    },
+    {
+      "sku": "009-005-98765",
+      "name": "Support for Canopy or Veil - Messing",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "491",
+          "after": "489"
+        }
+      ]
+    },
+    {
+      "sku": "010-874-68119",
+      "name": "Playpen Storage Bag - Cloudy Rib - Oatmeal / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2079",
+          "after": "2078"
+        }
+      ]
+    },
+    {
+      "sku": "013_0001",
+      "name": "Molton Waterproof - White / 50x90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1012",
+          "after": "1007"
+        }
+      ]
+    },
+    {
+      "sku": "015-410-68199",
+      "name": "Sleeping bag Newborn 4-Seasons - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "868",
+          "after": "866"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-67106",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Rib - Ivory / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1169",
+          "after": "1167"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-67110",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Round -Miffy Jacquard",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "277",
+          "after": "276"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68105",
+      "name": "Newborn Sleeping Bag with Removable Sleeves - Round - Leafy Dreams",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1233",
+          "after": "1229"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68106",
+      "name": "Newborn Sleeping Bag with Removable Sleeves - Round - Velvet",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "186",
+          "after": "183"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68165",
+      "name": "Sleeping bag with removable sleeves - Mini Teddy Bear Little Waffle",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "912",
+          "after": "901"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68196",
+      "name": "Sleeping bag with removable sleeves round - Jollies - Multicolor / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "571",
+          "after": "570"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68204",
+      "name": "Sleeping bag with removable sleeves - Miffy Moments - Silk Rose / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "365",
+          "after": "363"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68212",
+      "name": "Sleeping bag with removable sleeves - Fluffy - Sand / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1013",
+          "after": "1009"
+        }
+      ]
+    },
+    {
+      "sku": "016-410-68239",
+      "name": "Sleeping bag with removable sleeves round - Merino Wool Felted - Dark Hazel / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "383",
+          "after": "379"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-66095",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Teddy Bear - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1689",
+          "after": "1686"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-67096",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Sleepy Miffy - Nougat / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "207",
+          "after": "205"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-67105",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Rib - Sea Green / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "246",
+          "after": "240"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-67107",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Rib - Wild Rose / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1701",
+          "after": "1700"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68118",
+      "name": "Sleeping bag with removable sleeves round - Rib - Milky Coffee / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1344",
+          "after": "1335"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68154",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Animal Friends - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "361",
+          "after": "360"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68190",
+      "name": "Sleeping bag with removable sleeves round - Rib - Light Terra / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1717",
+          "after": "1716"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68196",
+      "name": "Sleeping bag with removable sleeves round - Jollies - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1571",
+          "after": "1565"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68197",
+      "name": "Sleeping bag with removable sleeves - Over the Moon - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1924",
+          "after": "1922"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68198",
+      "name": "Sleeping bag with removable sleeves - Barn Buddies - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1676",
+          "after": "1672"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68199",
+      "name": "Sleeping bag with removable sleeves - Woolly - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1695",
+          "after": "1687"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68200",
+      "name": "Sleeping bag with removable sleeves - Soft Plumes - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1712",
+          "after": "1709"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68203",
+      "name": "Sleeping bag with removable sleeves - Velvet - Silk Rose / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1630",
+          "after": "1627"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68212",
+      "name": "Sleeping bag with removable sleeves - Fluffy - Sand / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1940",
+          "after": "1937"
+        }
+      ]
+    },
+    {
+      "sku": "016-541-68239",
+      "name": "Sleeping bag with removable sleeves round - Merino Wool Felted - Dark Hazel / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "364",
+          "after": "359"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-66095",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Teddy Bear - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2100",
+          "after": "2097"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-67037",
+      "name": "Sleeping bag with removable sleeves - Velvet - Wild Rose / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "108",
+          "after": "107"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-67090",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Jungle Jambo - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "142",
+          "after": "140"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-67104",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Lovely Birds - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "514",
+          "after": "513"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-67105",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Rib - Sea Green / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1780",
+          "after": "1778"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68047",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Miffy and Friends - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "272",
+          "after": "273"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68076",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Bloomy - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2199",
+          "after": "2198"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68102",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Tiny Park - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1036",
+          "after": "1034"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68118",
+      "name": "Sleeping bag with removable sleeves round - Rib - Milky Coffee / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "727",
+          "after": "720"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68154",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Animal Friends - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "347",
+          "after": "345"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68190",
+      "name": "Sleeping bag with removable sleeves round - Rib - Light Terra / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "887",
+          "after": "883"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68196",
+      "name": "Sleeping bag with removable sleeves round - Jollies - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "777",
+          "after": "774"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68198",
+      "name": "Sleeping bag with removable sleeves - Barn Buddies - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1249",
+          "after": "1247"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68199",
+      "name": "Sleeping bag with removable sleeves - Woolly - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "823",
+          "after": "821"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68200",
+      "name": "Sleeping bag with removable sleeves - Soft Plumes - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "780",
+          "after": "779"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68202",
+      "name": "Sleeping bag with removable sleeves - Velvet - Hazel / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "975",
+          "after": "974"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68203",
+      "name": "Sleeping bag with removable sleeves - Velvet - Silk Rose / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "966",
+          "after": "965"
+        }
+      ]
+    },
+    {
+      "sku": "016-542-68212",
+      "name": "Sleeping bag with removable sleeves - Fluffy - Sand / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "803",
+          "after": "801"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-66095",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Teddy Bear - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2605",
+          "after": "2604"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68075",
+      "name": "Baby Sleeping Bag with Removable Sleeves - On the Go - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "900",
+          "after": "899"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68104",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Flower Fairies - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "89",
+          "after": "88"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68110",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Elephant Tales - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "610",
+          "after": "609"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68118",
+      "name": "Sleeping bag with removable sleeves round - Rib - Milky Coffee / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1087",
+          "after": "1084"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68154",
+      "name": "Baby Sleeping Bag with Removable Sleeves - Animal Friends - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "297",
+          "after": "295"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68190",
+      "name": "Sleeping bag with removable sleeves round - Rib - Light Terra / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1253",
+          "after": "1251"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68196",
+      "name": "Sleeping bag with removable sleeves round - Jollies - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "855",
+          "after": "852"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68197",
+      "name": "Sleeping bag with removable sleeves - Over the Moon - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1433",
+          "after": "1432"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68199",
+      "name": "Sleeping bag with removable sleeves - Woolly - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1239",
+          "after": "1238"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68200",
+      "name": "Sleeping bag with removable sleeves - Soft Plumes - Multicolor / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1435",
+          "after": "1431"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68212",
+      "name": "Sleeping bag with removable sleeves - Fluffy - Sand / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1402",
+          "after": "1401"
+        }
+      ]
+    },
+    {
+      "sku": "016-548-68239",
+      "name": "Sleeping bag with removable sleeves round - Merino Wool Felted - Dark Hazel / 70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "355",
+          "after": "352"
+        }
+      ]
+    },
+    {
+      "sku": "017-512-65360",
+      "name": "Playpen Mat - Basic Knit - Nougat / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "74",
+          "after": "72"
+        }
+      ]
+    },
+    {
+      "sku": "017-512-68050",
+      "name": "Playpen Mat - Check Boucle - Multicolor / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "113",
+          "after": "112"
+        }
+      ]
+    },
+    {
+      "sku": "017-512-68119",
+      "name": "Playpen Mat - Cloudy Rib - Oatmeal / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "374",
+          "after": "375"
+        }
+      ]
+    },
+    {
+      "sku": "017-512-68212",
+      "name": "Playpen Mat - Fluffy - Sand / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1072",
+          "after": "1071"
+        }
+      ]
+    },
+    {
+      "sku": "017-537-68212",
+      "name": "Playpen Mat Round - Fluffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1093",
+          "after": "1091"
+        }
+      ]
+    },
+    {
+      "sku": "017-537-68219",
+      "name": "Playpen Mat Round - Curlé",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1253",
+          "after": "1251"
+        }
+      ]
+    },
+    {
+      "sku": "017-751-68118",
+      "name": "Playpen Mat - Cloudy Rib - Milky Coffee / 100x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "271",
+          "after": "270"
+        }
+      ]
+    },
+    {
+      "sku": "017-751-68119",
+      "name": "Playpen Mat - Cloudy Rib - Oatmeal / 100x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "342",
+          "after": "341"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-00093",
+      "name": "Highchair Cushion for Growth Chair",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "452",
+          "after": "450"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-67103",
+      "name": "Highchair Cushion for Growth Chair - Nostalgic Ride",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "82",
+          "after": "80"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-68047",
+      "name": "Highchair Cushion for Growth Chair - Miffy and Friends",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1269",
+          "after": "1270"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-68105",
+      "name": "Highchair Cushion for Growth Chair - Leafy Dreams",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "724",
+          "after": "723"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-68196",
+      "name": "Highchair Cushion for Growth Chair - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "437",
+          "after": "436"
+        }
+      ]
+    },
+    {
+      "sku": "019-533-68219",
+      "name": "Highchair Cushion for Growth Chair - Curlé",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1143",
+          "after": "1141"
+        }
+      ]
+    },
+    {
+      "sku": "021-001-68191",
+      "name": "Changing Pad - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1563",
+          "after": "1556"
+        }
+      ]
+    },
+    {
+      "sku": "021_0000",
+      "name": "Changing Pad - White / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1606",
+          "after": "1599"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68043",
+      "name": "Changing Pad Cover Terry - Sea Green / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1124",
+          "after": "1123"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68076",
+      "name": "Changing Pad Cover Jersey - Bloomy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1615",
+          "after": "1610"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68102",
+      "name": "Changing Pad Cover Jersey - Tiny Park",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "523",
+          "after": "518"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68104",
+      "name": "Changing Pad Cover Jersey - Flower Fairies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "257",
+          "after": "255"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68105",
+      "name": "Changing Pad Cover Jersey - Leafy Dreams",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1569",
+          "after": "1570"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68110",
+      "name": "Changing Pad Cover Jersey - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1657",
+          "after": "1622"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68118",
+      "name": "Changing Pad Cover - Cloudy Rib - Milky Coffee / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1500",
+          "after": "1471"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68159",
+      "name": "Changing Pad Cover - Pretty Picnic",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2161",
+          "after": "2158"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68171",
+      "name": "Changing Pad Cover Jersey - Mini Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "318",
+          "after": "316"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68198",
+      "name": "Changing Pad Cover Jersey - Barn Buddies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1084",
+          "after": "1083"
+        }
+      ]
+    },
+    {
+      "sku": "022-503-68212",
+      "name": "Changing Pad Cover - Fluffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1433",
+          "after": "1430"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-00103",
+      "name": "Footmuff buggy/stroller - Puffed - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "235",
+          "after": "215"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-67084",
+      "name": "Footmuff buggy/stroller - Puffed - Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "490",
+          "after": "465"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-68122",
+      "name": "Footmuff buggy/stroller - Embossed - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3146",
+          "after": "3131"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-68123",
+      "name": "Footmuff buggy/stroller - Embossed - Milky Coffee / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1837",
+          "after": "1833"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-68220",
+      "name": "Footmuff buggy/stroller - Embossed - Nearly Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2769",
+          "after": "2763"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-68221",
+      "name": "Footmuff buggy/stroller - Puffed - Light Terra / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1754",
+          "after": "1753"
+        }
+      ]
+    },
+    {
+      "sku": "025-800-68222",
+      "name": "Footmuff buggy/stroller - Puffed - Bronze / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1818",
+          "after": "1794"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-65220",
+      "name": "Footmuff group 0+ 3/5 points - Basic Knit - Stone Grey / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2144",
+          "after": "2143"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-65360",
+      "name": "Footmuff group 0+ 3/5 points - Basic Knit - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "6372",
+          "after": "6368"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-65371",
+      "name": "Footmuff group 0+ 3/5 points - Basic Knit - Forest Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2100",
+          "after": "2098"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-67084",
+      "name": "Footmuff group 0+ 3/5 points - Puffed - Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "166",
+          "after": "165"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68039",
+      "name": "Footmuff group 0+ 3/5 points - Check Knit",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "316",
+          "after": "313"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68120",
+      "name": "Footmuff group 0+ 3/5 points - Basic Knit - Oatmeal / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1037",
+          "after": "1036"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68122",
+      "name": "Footmuff group 0+ 3/5 points - Embossed - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "533",
+          "after": "468"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68123",
+      "name": "Footmuff group 0+ 3/5 points - Embossed - Milky Coffee / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "178",
+          "after": "167"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68158",
+      "name": "Footmuff group 0+ 3/5 points - Little Waffle",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "934",
+          "after": "935"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68165",
+      "name": "Footmuff group 0+ 3/5 points - Mini Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1251",
+          "after": "1250"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68171",
+      "name": "Footmuff group 0+ 3/5 points - Puffed - Mini Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "715",
+          "after": "703"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68213",
+      "name": "Footmuff group 0+ 3/5 points - Sprinkle Knit - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1289",
+          "after": "1286"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68220",
+      "name": "Footmuff group 0+ 3/5 points - Embossed - Nearly Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3660",
+          "after": "3642"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68222",
+      "name": "Footmuff group 0+ 3/5 points - Puffed - Bronze / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3087",
+          "after": "3083"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68222-SHOPIFY-47022284603590",
+      "name": "Footmuff group 0+ 3/5 points - Puffed - Bronze / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3085",
+          "after": "3084"
+        }
+      ]
+    },
+    {
+      "sku": "025-811-68229",
+      "name": "Footmuff group 0+ 3/5 points - Miffy Jacquard Teddy - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "866",
+          "after": "865"
+        }
+      ]
+    },
+    {
+      "sku": "027-818-68024",
+      "name": "Diaper Bag - Puffed Moos - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "179",
+          "after": "180"
+        }
+      ]
+    },
+    {
+      "sku": "027-818-68242",
+      "name": "Diaper Bag - Teddy Lou",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "743",
+          "after": "737"
+        }
+      ]
+    },
+    {
+      "sku": "027-818-68243",
+      "name": "Diaper Bag - Quilted Quinn",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "705",
+          "after": "702"
+        }
+      ]
+    },
+    {
+      "sku": "027-819-68242",
+      "name": "Diaper Bag Backpack - Teddy Lou",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "525",
+          "after": "523"
+        }
+      ]
+    },
+    {
+      "sku": "028-543-68093",
+      "name": "Kids Chair Beanbag - Corduroy - Olive Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "518",
+          "after": "519"
+        }
+      ]
+    },
+    {
+      "sku": "029-007-68075",
+      "name": "Bib Silicone - On The Go - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "872",
+          "after": "873"
+        }
+      ]
+    },
+    {
+      "sku": "029-007-68160",
+      "name": "Bib Silicone - Kangaroots - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2770",
+          "after": "2769"
+        }
+      ]
+    },
+    {
+      "sku": "029-007-68185",
+      "name": "Bib Silicone - Natural Shades - 2 Pack - Blush / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1241",
+          "after": "1240"
+        }
+      ]
+    },
+    {
+      "sku": "029-541-67112",
+      "name": "Bib Bandana - Velvet Rib - 2 Pack - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2229",
+          "after": "2228"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-67114",
+      "name": "Bib Terry - 3 Pack - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "459",
+          "after": "457"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68010",
+      "name": "Bib - Teddy Bear/Harvest -5 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "734",
+          "after": "686"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68044",
+      "name": "Bib Terry - 3 Pack - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "850",
+          "after": "849"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68196",
+      "name": "Bib Jersey Waterproof - Jollies - 5 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "672",
+          "after": "671"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68198",
+      "name": "Bib Jersey Waterproof - Barn Buddies - 5 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1003",
+          "after": "999"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68199",
+      "name": "Bib Jersey Waterproof - Woolly - 5 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "948",
+          "after": "946"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68200",
+      "name": "Bib Jersey Waterproof - Soft Plumes - 5 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1049",
+          "after": "1050"
+        }
+      ]
+    },
+    {
+      "sku": "029-566-68227",
+      "name": "Bib Terry - 3 Pack - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "479",
+          "after": "478"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-65345",
+      "name": "Bib Waterproof - Snake - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "244",
+          "after": "243"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-66095",
+      "name": "Bib Waterproof - Teddy Bear - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1285",
+          "after": "1284"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-67104",
+      "name": "Bib Waterproof - Lovely Birds - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2334",
+          "after": "2333"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-68047",
+      "name": "Bib Waterproof - Miffy and Friends - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1212",
+          "after": "1213"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-68196",
+      "name": "Bib Jersey Waterproof - Jollies - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "730",
+          "after": "729"
+        }
+      ]
+    },
+    {
+      "sku": "029-864-68200",
+      "name": "Bib Waterproof - Soft Plumes - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "819",
+          "after": "816"
+        }
+      ]
+    },
+    {
+      "sku": "029-867-00093",
+      "name": "Bib Bandana - 2 Pack - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1282",
+          "after": "1212"
+        }
+      ]
+    },
+    {
+      "sku": "029-867-00103",
+      "name": "Bib Bandana - 2 Pack - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "827",
+          "after": "826"
+        }
+      ]
+    },
+    {
+      "sku": "029-867-66095",
+      "name": "Bib Bandana - Teddy Bear - 2 Pack - GOTS",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "98",
+          "after": "95"
+        }
+      ]
+    },
+    {
+      "sku": "029-867-67099",
+      "name": "Bib Bandana - 2 Pack - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "143",
+          "after": "142"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-66095",
+      "name": "Bib Waterproof with Sleeves - Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2582",
+          "after": "2581"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-67090",
+      "name": "Bib Waterproof with Sleeves - Jungle Jambo",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1291",
+          "after": "1289"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-67104",
+      "name": "Bib Waterproof with Sleeves - Lovely Birds",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "156",
+          "after": "157"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68104",
+      "name": "Bib Waterproof with Sleeves - Flower Fairies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "68",
+          "after": "61"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68105",
+      "name": "Bib Waterproof with Sleeves - Leafy Dreams",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2222",
+          "after": "2213"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68110",
+      "name": "Bib Waterproof with Sleeves - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2486",
+          "after": "2485"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68196",
+      "name": "Bib Waterproof with Sleeves - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3036",
+          "after": "3033"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68198",
+      "name": "Bib Waterproof with Sleeves - Barn Buddies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3868",
+          "after": "3865"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68199",
+      "name": "Bib Waterproof with Sleeves - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2455",
+          "after": "2451"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68200",
+      "name": "Bib Waterproof with Sleeves - Soft Plumes",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2594",
+          "after": "2592"
+        }
+      ]
+    },
+    {
+      "sku": "029-869-68204",
+      "name": "Bib Waterproof with Sleeves - Miffy Moments - Silk Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1033",
+          "after": "1032"
+        }
+      ]
+    },
+    {
+      "sku": "031-562-68087",
+      "name": "Pacifier Cloth - Little Star - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1422",
+          "after": "1421"
+        }
+      ]
+    },
+    {
+      "sku": "031-562-68097",
+      "name": "Pacifier Cloth - Little Star - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "643",
+          "after": "642"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-66046",
+      "name": "Pacifier Cloth - Moon",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "916",
+          "after": "915"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-67005",
+      "name": "Pacifier Cloth - Teddy Bear - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1897",
+          "after": "1894"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-67076",
+      "name": "Pacifier Cloth - Bear - Giraffe / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "8352",
+          "after": "8347"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-67086",
+      "name": "Pacifier Cloth - Bunny - Riverside",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1418",
+          "after": "1408"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68110",
+      "name": "Pacifier Cloth - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1422",
+          "after": "1421"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68145",
+      "name": "Pacifier Cloth - Animal Friends",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1194",
+          "after": "1185"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68151",
+      "name": "Pacifier Cloth - Mick/Jill - Dog / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3225",
+          "after": "3223"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68152",
+      "name": "Pacifier Cloth - Mick/Jill - Cat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3550",
+          "after": "3548"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68160",
+      "name": "Pacifier Cloth - Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1967",
+          "after": "1961"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68235",
+      "name": "Pacifier Cloth - Jollies - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1414",
+          "after": "1409"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68236",
+      "name": "Pacifier Cloth - Jollies - Bunny Luz / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2543",
+          "after": "2540"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68236-SHOPIFY-45622286745798",
+      "name": "Pacifier Cloth - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2543",
+          "after": "2540"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68238",
+      "name": "Pacifier Cloth - Peacock Pavie",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2894",
+          "after": "2887"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68241",
+      "name": "Pacifier Cloth - Jollies - Alpaca Paco / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1893",
+          "after": "1891"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68241-SHOPIFY-45622281076934",
+      "name": "Pacifier Cloth - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1893",
+          "after": "1891"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68242",
+      "name": "Pacifier Cloth - Jollies - Elephant Suki / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "802",
+          "after": "789"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68242-SHOPIFY-45622279733446",
+      "name": "Pacifier Cloth - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "802",
+          "after": "789"
+        }
+      ]
+    },
+    {
+      "sku": "031-594-68244",
+      "name": "Pacifier Cloth - Peacock Pavie/Pia",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2615",
+          "after": "2614"
+        }
+      ]
+    },
+    {
+      "sku": "032-566-66019",
+      "name": "Wrap Blanket - Bunny - Nougat / 100x105 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "608",
+          "after": "607"
+        }
+      ]
+    },
+    {
+      "sku": "032-566-68050",
+      "name": "Wrap Blanket - Bunny Check",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "881",
+          "after": "880"
+        }
+      ]
+    },
+    {
+      "sku": "032-566-68119",
+      "name": "Wrap Blanket - Bunny - Cloudy Rib - Oatmeal / 100x105 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "494",
+          "after": "467"
+        }
+      ]
+    },
+    {
+      "sku": "032-566-68241",
+      "name": "Wrap Blanket Sherpa - Merino Wool - Dark Hazel / 80x80 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "430",
+          "after": "429"
+        }
+      ]
+    },
+    {
+      "sku": "033-003-66041",
+      "name": "Hot Water Bottle Bag - Terry - Ivory / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "346",
+          "after": "345"
+        }
+      ]
+    },
+    {
+      "sku": "033-003-68191",
+      "name": "Hot Water Bottle Bag - Terry - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "96",
+          "after": "94"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-65365",
+      "name": "Stuffed Animal - Bunny - Pink / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1323",
+          "after": "1321"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-67007",
+      "name": "Stuffed Animal - Teddy Bear - Naturel / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1513",
+          "after": "1512"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-67073",
+      "name": "Stuffed Animal Doll - Fairy Livia / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "5606",
+          "after": "5601"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-67076",
+      "name": "Stuffed Animal Doll - Bee Lily / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2866",
+          "after": "2860"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-67100",
+      "name": "Stuffed Animal - Roarsome",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "650",
+          "after": "648"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68066",
+      "name": "Stuffed Animal - Giraffe - Biscuit / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "597",
+          "after": "595"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68071",
+      "name": "Stuffed Animal Doll - Doll Daisy / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "5011",
+          "after": "5009"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68072",
+      "name": "Stuffed Animal Doll - Doll Rose / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4047",
+          "after": "4044"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68086",
+      "name": "Stuffed Animal - Bunny - Riverside",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "500",
+          "after": "497"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68095",
+      "name": "Stuffed Animal Doll - Fairy Amy / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "737",
+          "after": "734"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68144",
+      "name": "Stuffed Animal - Animal Friends",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1592",
+          "after": "1573"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68147",
+      "name": "Stuffed Animal Doll - Lady Lynn / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2528",
+          "after": "2527"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68148",
+      "name": "Stuffed Animal Doll - Knight Duke / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2174",
+          "after": "2173"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68151",
+      "name": "Stuffed Animal - Mick/Jill - Dog Mick / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4443",
+          "after": "4440"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68152",
+      "name": "Stuffed Animal - Mick/Jill - Cat Jill / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4333",
+          "after": "4330"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68160",
+      "name": "Stuffed Animal - Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2102",
+          "after": "2100"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68235",
+      "name": "Stuffed Animal - Jollies - Hippo Happy / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1353",
+          "after": "1349"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68236",
+      "name": "Stuffed Animal - Jollies - Bunny Luz / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2294",
+          "after": "2293"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68237",
+      "name": "Stuffed Animal - Sheep Sonny",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1781",
+          "after": "1777"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68241",
+      "name": "Stuffed Animal - Jollies - Alpaca Paco / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2127",
+          "after": "2126"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68242",
+      "name": "Stuffed Animal - Jollies - Elephant Suki / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1437",
+          "after": "1430"
+        }
+      ]
+    },
+    {
+      "sku": "037-001-68243",
+      "name": "Stuffed Animal - Jollies - Bear Brave / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2051",
+          "after": "2050"
+        }
+      ]
+    },
+    {
+      "sku": "037-010-68066",
+      "name": "Stuffed Animal - Giraffe - Biscuit / Extra Large",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "613",
+          "after": "612"
+        }
+      ]
+    },
+    {
+      "sku": "037-100-68237",
+      "name": "Stuffed Animal with Light and Sound - Sheep Sonny / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "914",
+          "after": "910"
+        }
+      ]
+    },
+    {
+      "sku": "037-100-68243",
+      "name": "Stuffed Animal with Light and Sound - Bear Brave / Normal",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "412",
+          "after": "409"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-67005",
+      "name": "Rattle - Teddy Bear - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1491",
+          "after": "1490"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-67078",
+      "name": "Rattle - Bear - Bear / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "324",
+          "after": "323"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-68062",
+      "name": "Rattle - Teddy Bear - Olive Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "559",
+          "after": "560"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-68110",
+      "name": "Rattle - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1718",
+          "after": "1709"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-68160",
+      "name": "Rattle - Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "594",
+          "after": "590"
+        }
+      ]
+    },
+    {
+      "sku": "039-001-68238",
+      "name": "Rattle - Peacock Pavie",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1268",
+          "after": "1267"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-67005",
+      "name": "Musical Hanger - Teddy Bear - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2538",
+          "after": "2535"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-67007",
+      "name": "Musical Hanger - Teddy Bear - Naturel / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "456",
+          "after": "453"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68062",
+      "name": "Musical Hanger - Teddy Bear - Olive Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "564",
+          "after": "563"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68063",
+      "name": "Musical Hanger - Teddy Bear - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3283",
+          "after": "3282"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68075",
+      "name": "Musical Hanger - On The Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1861",
+          "after": "1860"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68094",
+      "name": "Musical Hanger - Lovely Birds",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2414",
+          "after": "2411"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68110",
+      "name": "Musical Hanger - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2701",
+          "after": "2699"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68160",
+      "name": "Musical Hanger - Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1322",
+          "after": "1319"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68178",
+      "name": "Musical Hanger - Pretty Picnic",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1750",
+          "after": "1748"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68235",
+      "name": "Musical Hanger - Jollies - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "573",
+          "after": "572"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68237",
+      "name": "Musical Hanger - Sheep Sonny",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2265",
+          "after": "2263"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68238",
+      "name": "Musical Hanger - Peacock Pavie",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1358",
+          "after": "1356"
+        }
+      ]
+    },
+    {
+      "sku": "043-001-68246",
+      "name": "Musical Hanger - Highlander Chou",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1293",
+          "after": "1287"
+        }
+      ]
+    },
+    {
+      "sku": "044-559-68196",
+      "name": "Growth Chart - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "823",
+          "after": "822"
+        }
+      ]
+    },
+    {
+      "sku": "044-559-68198",
+      "name": "Growth Chart - Barn Buddies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "944",
+          "after": "942"
+        }
+      ]
+    },
+    {
+      "sku": "044-559-68200",
+      "name": "Growth Chart - Soft Plumes",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "997",
+          "after": "996"
+        }
+      ]
+    },
+    {
+      "sku": "047-547-67020",
+      "name": "Wrapper 0-3 months - Ajour - Biscuit / 0-3 Months",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1070",
+          "after": "1066"
+        }
+      ]
+    },
+    {
+      "sku": "047-547-67070",
+      "name": "Wrapper 0-3 months - Ajour - Sand / 0-3 Months",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "879",
+          "after": "875"
+        }
+      ]
+    },
+    {
+      "sku": "047-547-68196",
+      "name": "Wrapper 0-3 months - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "747",
+          "after": "743"
+        }
+      ]
+    },
+    {
+      "sku": "047-596-68199",
+      "name": "Sleeping Bag Newborn Cocoon 0-3 months - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "947",
+          "after": "945"
+        }
+      ]
+    },
+    {
+      "sku": "048-516-00103",
+      "name": "Sleeping Bag - Muslin - Biscuit / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "191",
+          "after": "187"
+        }
+      ]
+    },
+    {
+      "sku": "048-516-67100",
+      "name": "Baby Sleeping Bag - Muslin - Roarsome - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "389",
+          "after": "388"
+        }
+      ]
+    },
+    {
+      "sku": "048-516-68075",
+      "name": "Baby Sleeping Bag - Jersey - On The Go - Multicolor / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "871",
+          "after": "870"
+        }
+      ]
+    },
+    {
+      "sku": "048-516-68157",
+      "name": "Sleeping Bag - Jersey - Little Waffle - Light Terra / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "921",
+          "after": "917"
+        }
+      ]
+    },
+    {
+      "sku": "053-577-66067",
+      "name": "Pouch - Boucle - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "777",
+          "after": "772"
+        }
+      ]
+    },
+    {
+      "sku": "053-577-68048",
+      "name": "Pouch - Teddy Miffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1598",
+          "after": "1597"
+        }
+      ]
+    },
+    {
+      "sku": "053-577-68118",
+      "name": "Pouch - Cloudy Rib - Milky Coffee / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "821",
+          "after": "819"
+        }
+      ]
+    },
+    {
+      "sku": "053-577-68119",
+      "name": "Pouch - Cloudy Rib - Oatmeal / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3444",
+          "after": "3442"
+        }
+      ]
+    },
+    {
+      "sku": "054-014-65322",
+      "name": "Teething Ring - Deer - Pale Pink / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4219",
+          "after": "4217"
+        }
+      ]
+    },
+    {
+      "sku": "057-591-68139",
+      "name": "Backpack - Diego Dog/Charlie Cat - Dog / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "891",
+          "after": "888"
+        }
+      ]
+    },
+    {
+      "sku": "057-591-68189",
+      "name": "Backpack - Flower",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "777",
+          "after": "778"
+        }
+      ]
+    },
+    {
+      "sku": "057-591-68235",
+      "name": "Backpack - Peacock Pavie - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "680",
+          "after": "677"
+        }
+      ]
+    },
+    {
+      "sku": "057-591-68236",
+      "name": "Backpack - Peacock Pavie - Bunny Luz / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "831",
+          "after": "830"
+        }
+      ]
+    },
+    {
+      "sku": "059-595-67103",
+      "name": "Toys Suitcase - Nostalgic Ride - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "72",
+          "after": "71"
+        }
+      ]
+    },
+    {
+      "sku": "059-595-68159",
+      "name": "Toys Suitcase - Pretty Picnic - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "660",
+          "after": "659"
+        }
+      ]
+    },
+    {
+      "sku": "059-595-68196",
+      "name": "Toys Suitcase - Jollies - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "791",
+          "after": "790"
+        }
+      ]
+    },
+    {
+      "sku": "059-595-68198",
+      "name": "Toys Suitcase - Barn Buddies - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "961",
+          "after": "959"
+        }
+      ]
+    },
+    {
+      "sku": "060-808-68043",
+      "name": "Bathrobe - Sea Green / 1-2 Years",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "315",
+          "after": "309"
+        }
+      ]
+    },
+    {
+      "sku": "060-808-68169",
+      "name": "Baby Bathrobe - Jacquard - Biscuit / 1-2 Years",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "707",
+          "after": "706"
+        }
+      ]
+    },
+    {
+      "sku": "060-808-68174",
+      "name": "Baby Bathrobe - Miffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "278",
+          "after": "277"
+        }
+      ]
+    },
+    {
+      "sku": "060-808-68204",
+      "name": "Baby Bathrobe - Miffy - Silk Rose / 1-2 Years",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "85",
+          "after": "81"
+        }
+      ]
+    },
+    {
+      "sku": "060-808-68205",
+      "name": "Baby Bathrobe - Miffy - Cloudy Blue / 1-2 Years",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "40",
+          "after": "39"
+        }
+      ]
+    },
+    {
+      "sku": "060-809-67113",
+      "name": "Bathrobe - Wild Rose / 3-4 Years",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "357",
+          "after": "356"
+        }
+      ]
+    },
+    {
+      "sku": "061-001-67100",
+      "name": "Pram Hanger - Roarsome",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1009",
+          "after": "1008"
+        }
+      ]
+    },
+    {
+      "sku": "061-001-68145",
+      "name": "Pram Hanger - Animal Friends",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "181",
+          "after": "169"
+        }
+      ]
+    },
+    {
+      "sku": "061-001-68179",
+      "name": "Pram Hanger - Pretty Picnic",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1550",
+          "after": "1549"
+        }
+      ]
+    },
+    {
+      "sku": "061-002-67100",
+      "name": "Pram Chain - Roarsome",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1570",
+          "after": "1567"
+        }
+      ]
+    },
+    {
+      "sku": "062-410-68163",
+      "name": "Newborn Sleeping Bag - Jersey - 60cm - Soft Twine - Sand / 60cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "538",
+          "after": "536"
+        }
+      ]
+    },
+    {
+      "sku": "062-410-68165",
+      "name": "Newborn Sleeping Bag - Jersey - 60cm - Little Waffle",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "935",
+          "after": "934"
+        }
+      ]
+    },
+    {
+      "sku": "065-541-68106",
+      "name": "Baby Sleeping Bag Sleeveless - Velvet - Milky Coffee / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "786",
+          "after": "787"
+        }
+      ]
+    },
+    {
+      "sku": "065-541-68108",
+      "name": "Baby Sleeping Bag Sleeveless - Velvet - Oatmeal / 90cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "536",
+          "after": "535"
+        }
+      ]
+    },
+    {
+      "sku": "065-542-68106",
+      "name": "Baby Sleeping Bag Sleeveless - Velvet - Milky Coffee / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "241",
+          "after": "242"
+        }
+      ]
+    },
+    {
+      "sku": "065-542-68108",
+      "name": "Baby Sleeping Bag Sleeveless - Velvet - Oatmeal / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "615",
+          "after": "614"
+        }
+      ]
+    },
+    {
+      "sku": "065-542-68196",
+      "name": "Sleeping bag winter sleeveless padded - Jollies - Multicolor / 110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "511",
+          "after": "509"
+        }
+      ]
+    },
+    {
+      "sku": "066-001-68114",
+      "name": "Stroller Hooks - Milky Coffee / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "494",
+          "after": "492"
+        }
+      ]
+    },
+    {
+      "sku": "067-001-68137",
+      "name": "Stroller Gloves - Black / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "950",
+          "after": "949"
+        }
+      ]
+    },
+    {
+      "sku": "067-001-68223",
+      "name": "Stroller Gloves - Bronze / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "594",
+          "after": "592"
+        }
+      ]
+    },
+    {
+      "sku": "068-001-68196",
+      "name": "Activity Triangle - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1502",
+          "after": "1496"
+        }
+      ]
+    },
+    {
+      "sku": "068-001-68199",
+      "name": "Activity Triangle - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1520",
+          "after": "1517"
+        }
+      ]
+    },
+    {
+      "sku": "069-001-68102",
+      "name": "Hide and Seek Activity Toy Set - Tiny Park",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2305",
+          "after": "2303"
+        }
+      ]
+    },
+    {
+      "sku": "070-577-68156",
+      "name": "Pouch - Miffy Family Farm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "983",
+          "after": "982"
+        }
+      ]
+    },
+    {
+      "sku": "070-577-68212",
+      "name": "Pouch - Fluffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1968",
+          "after": "1967"
+        }
+      ]
+    },
+    {
+      "sku": "070-577-68219",
+      "name": "Pouch - Curlé",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1879",
+          "after": "1876"
+        }
+      ]
+    },
+    {
+      "sku": "071-001-68149",
+      "name": "Wrist Rattle - Tiny Park - Dog Mick / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2841",
+          "after": "2842"
+        }
+      ]
+    },
+    {
+      "sku": "071-001-68235",
+      "name": "Wrist Rattle - Jollies - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1207",
+          "after": "1203"
+        }
+      ]
+    },
+    {
+      "sku": "071-001-68243",
+      "name": "Wrist Rattle - Jollies - Bear Brave / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "528",
+          "after": "521"
+        }
+      ]
+    },
+    {
+      "sku": "072-001-68154",
+      "name": "Playpen Activity Book - Animal Friends/Elephant Tales - Oatmeal / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3181",
+          "after": "3157"
+        }
+      ]
+    },
+    {
+      "sku": "072-001-68246",
+      "name": "Playpen Activity book - Highlander Chou",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "717",
+          "after": "712"
+        }
+      ]
+    },
+    {
+      "sku": "091-001-67058",
+      "name": "Wet Wipes Cover - Muslin - Olive Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "733",
+          "after": "732"
+        }
+      ]
+    },
+    {
+      "sku": "091-001-68043",
+      "name": "Wet Wipes Cover - Muslin - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1231",
+          "after": "1230"
+        }
+      ]
+    },
+    {
+      "sku": "096-001-66067",
+      "name": "Changing Mat - Boucle - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1446",
+          "after": "1441"
+        }
+      ]
+    },
+    {
+      "sku": "096-001-68118",
+      "name": "Changing Mat With Storage Pockets - Cloudy Rib - Milky Coffee / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "205",
+          "after": "200"
+        }
+      ]
+    },
+    {
+      "sku": "096-001-68212",
+      "name": "Changing Mat - Fluffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1199",
+          "after": "1198"
+        }
+      ]
+    },
+    {
+      "sku": "096-001-68219",
+      "name": "Changing Mat - Curlé",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2063",
+          "after": "2059"
+        }
+      ]
+    },
+    {
+      "sku": "101-001-67008",
+      "name": "Teething Ring Rubber - Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1191",
+          "after": "1190"
+        }
+      ]
+    },
+    {
+      "sku": "101-001-68075",
+      "name": "Teething Ring Rubber - On The Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "461",
+          "after": "460"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-66095",
+      "name": "Teething Ring Silicone - Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "930",
+          "after": "929"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-67104",
+      "name": "Silicone Teething Ring Keychain - Lovely Birds",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "820",
+          "after": "818"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68075",
+      "name": "Silicone Teething Ring Keychain - On The Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1061",
+          "after": "1060"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68151",
+      "name": "Teething Ring - Mick/Jill - Dog / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1666",
+          "after": "1664"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68152",
+      "name": "Teething Ring - Mick/Jill - Cat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1757",
+          "after": "1756"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68184",
+      "name": "Teething Ring - Flower",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2106",
+          "after": "2104"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68241",
+      "name": "Teething Ring - Jollies - Alpaca Paco / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1046",
+          "after": "1045"
+        }
+      ]
+    },
+    {
+      "sku": "101-007-68242",
+      "name": "Teething Ring - Jollies - Elephant Suki / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1573",
+          "after": "1566"
+        }
+      ]
+    },
+    {
+      "sku": "104-001-68196",
+      "name": "Wooden Shape Sorter - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1700",
+          "after": "1691"
+        }
+      ]
+    },
+    {
+      "sku": "105-001-67103",
+      "name": "Wooden Twisting Cubes - Jungle Jambo",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "260",
+          "after": "259"
+        }
+      ]
+    },
+    {
+      "sku": "108-001-68094",
+      "name": "Babygym Toys - Lovely Birds",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1570",
+          "after": "1569"
+        }
+      ]
+    },
+    {
+      "sku": "108-001-68110",
+      "name": "Babygym Toys - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1123",
+          "after": "1112"
+        }
+      ]
+    },
+    {
+      "sku": "108-001-68199",
+      "name": "Babygym Toys - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "253",
+          "after": "250"
+        }
+      ]
+    },
+    {
+      "sku": "108-001-68237",
+      "name": "Babygym Wood - Twist & Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2561",
+          "after": "2559"
+        }
+      ]
+    },
+    {
+      "sku": "109-001-68196",
+      "name": "Wooden Balance Game - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1874",
+          "after": "1869"
+        }
+      ]
+    },
+    {
+      "sku": "112-001-67090",
+      "name": "Wooden Crocodile on Wheels - Jungle Jambo - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "46",
+          "after": "48"
+        }
+      ]
+    },
+    {
+      "sku": "112-001-68098",
+      "name": "Wooden Car - On The Go - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "999",
+          "after": "998"
+        }
+      ]
+    },
+    {
+      "sku": "116-001-67015",
+      "name": "Baby Mobile Teddy Bear - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "589",
+          "after": "587"
+        }
+      ]
+    },
+    {
+      "sku": "116-001-68110",
+      "name": "Baby Mobile - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "488",
+          "after": "487"
+        }
+      ]
+    },
+    {
+      "sku": "116-001-68159",
+      "name": "Baby Mobile - Pretty Picnic",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1940",
+          "after": "1939"
+        }
+      ]
+    },
+    {
+      "sku": "117-001-67090",
+      "name": "Wooden Toy Train - Jungle Jambo",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1356",
+          "after": "1351"
+        }
+      ]
+    },
+    {
+      "sku": "117-001-68196",
+      "name": "Wooden Toy Train - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2364",
+          "after": "2360"
+        }
+      ]
+    },
+    {
+      "sku": "117-001-68248",
+      "name": "Wooden Toy Train - Jollies Camping",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2376",
+          "after": "2375"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-00105",
+      "name": "Soft play ball",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "842",
+          "after": "840"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68102",
+      "name": "Activity Cube - Tiny Park",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2948",
+          "after": "2947"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68154",
+      "name": "Activity Cube - Animal Friends",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3504",
+          "after": "3503"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68196",
+      "name": "Activity Cube - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1198",
+          "after": "1194"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68198",
+      "name": "Activity Cube - Barn Buddies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1293",
+          "after": "1287"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68199",
+      "name": "Activity Cube - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1400",
+          "after": "1392"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68200",
+      "name": "Activity Cube - Soft Plumes",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "420",
+          "after": "415"
+        }
+      ]
+    },
+    {
+      "sku": "119-001-68235",
+      "name": "Wooden Rattle - Jollies - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2881",
+          "after": "2880"
+        }
+      ]
+    },
+    {
+      "sku": "120-001-68196",
+      "name": "Wooden Stacking Tower - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2222",
+          "after": "2219"
+        }
+      ]
+    },
+    {
+      "sku": "121-001-68056",
+      "name": "Wooden Bead Maze - Jungle Jambo - Sea Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1195",
+          "after": "1196"
+        }
+      ]
+    },
+    {
+      "sku": "121-001-68236",
+      "name": "Wooden Bead Maze - Jollies - Bunny Luz / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1254",
+          "after": "1252"
+        }
+      ]
+    },
+    {
+      "sku": "121-001-68241",
+      "name": "Wooden Bead Maze - Jollies - Alpaca Paco / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1494",
+          "after": "1492"
+        }
+      ]
+    },
+    {
+      "sku": "122-001-68110",
+      "name": "Activity Spiral - Elephant Tales",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2301",
+          "after": "2289"
+        }
+      ]
+    },
+    {
+      "sku": "122-001-68196",
+      "name": "Activity Spiral - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "796",
+          "after": "795"
+        }
+      ]
+    },
+    {
+      "sku": "122-001-68199",
+      "name": "Activity Spiral - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "581",
+          "after": "577"
+        }
+      ]
+    },
+    {
+      "sku": "122-001-68200",
+      "name": "Activity Spiral - Soft Plumes",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "484",
+          "after": "483"
+        }
+      ]
+    },
+    {
+      "sku": "220-001-68026",
+      "name": "Activity Toy - Deepsea - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "249",
+          "after": "199"
+        }
+      ]
+    },
+    {
+      "sku": "220-001-68027",
+      "name": "Activity Toy - Deepsea - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "99",
+          "after": "98"
+        }
+      ]
+    },
+    {
+      "sku": "220-001-68075",
+      "name": "Activity Toy - On The Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1025",
+          "after": "1023"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68102",
+      "name": "Soft Activity Book - Tiny Park",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "48",
+          "after": "47"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68104",
+      "name": "Soft Activity Book - Flower Fairies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1590",
+          "after": "1589"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68196",
+      "name": "Soft Activity Book - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1830",
+          "after": "1821"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68198",
+      "name": "Soft Activity Book - Barn Buddies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2323",
+          "after": "2316"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68199",
+      "name": "Soft Activity Book - Woolly",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3232",
+          "after": "3221"
+        }
+      ]
+    },
+    {
+      "sku": "221-001-68200",
+      "name": "Soft Activity Book - Soft Plumes",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1634",
+          "after": "1630"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-67069",
+      "name": "Fitted Sheet - Jersey - 2-Pack - Wild Rose / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "298",
+          "after": "296"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68013",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Wild Rose & Ivory / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "678",
+          "after": "677"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68115",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Milky Coffee & Ivory / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2212",
+          "after": "2211"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68116",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Sea Green & Ivory / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "540",
+          "after": "536"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68155",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Oatmeal & Sand / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "5720",
+          "after": "5717"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68210",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Hazel & Oatmeal / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "470",
+          "after": "469"
+        }
+      ]
+    },
+    {
+      "sku": "2511-501-68211",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Light Terra & Oatmeal / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "83",
+          "after": "81"
+        }
+      ]
+    },
+    {
+      "sku": "2511-507-68013",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Wild Rose & Ivory / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1036",
+          "after": "1038"
+        }
+      ]
+    },
+    {
+      "sku": "2511-507-68079",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Sea Green & Biscuit / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "215",
+          "after": "214"
+        }
+      ]
+    },
+    {
+      "sku": "2511-507-68155",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Oatmeal & Sand / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1948",
+          "after": "1946"
+        }
+      ]
+    },
+    {
+      "sku": "2511-507-68164",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Blush & Wild Rose / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3028",
+          "after": "3026"
+        }
+      ]
+    },
+    {
+      "sku": "2511-507-68210",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Hazel & Oatmeal / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "316",
+          "after": "315"
+        }
+      ]
+    },
+    {
+      "sku": "2511-565-68155",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Oatmeal & Sand / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1526",
+          "after": "1525"
+        }
+      ]
+    },
+    {
+      "sku": "2511-565-68164",
+      "name": "Fitted Sheet - Jersey - 2 Pack - Blush & Wild Rose / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "701",
+          "after": "699"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-00155",
+      "name": "Changing Pad Cover Terry - 2 Pack - Caramel & Biscuit / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "6551",
+          "after": "6546"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-00156",
+      "name": "Changing Pad Cover Terry - 2 Pack - Ivory & Nougat / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4047",
+          "after": "4044"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-68114",
+      "name": "Changing Pad Cover Terry - 2 Pack - Milky Coffee / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "527",
+          "after": "526"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-68115",
+      "name": "Changing Pad Cover Terry - 2 Pack - Milky Coffee & Ivory / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "109",
+          "after": "106"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-68116",
+      "name": "Changing Pad Cover Terry - 2 Pack - Sea Green & Ivory / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2337",
+          "after": "2332"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-68191",
+      "name": "Changing Pad Cover Terry - 2 Pack - Sand / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "472",
+          "after": "471"
+        }
+      ]
+    },
+    {
+      "sku": "2550-503-68210",
+      "name": "Changing Pad Cover Terry - 2 Pack - Hazel & Oatmeal / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1125",
+          "after": "1122"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-00093",
+      "name": "Washcloth Terry - Ears - Nougat / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "292",
+          "after": "290"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-00103",
+      "name": "Washcloth Terry - Ears - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "196",
+          "after": "195"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-00153",
+      "name": "Washcloth Terry - Ears - Ivory / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "220",
+          "after": "219"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-68133",
+      "name": "Washcloth Terry - Pets - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "192",
+          "after": "190"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-68235",
+      "name": "Washcloth Terry - Animals - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "698",
+          "after": "693"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-68237",
+      "name": "Washcloth Terry - Animals - Sheep Sonny / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "351",
+          "after": "349"
+        }
+      ]
+    },
+    {
+      "sku": "336-597-68238",
+      "name": "Washcloth Terry - Animals - Peacock Pavie / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "909",
+          "after": "907"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-00093",
+      "name": "Fitted Sheet - Jersey - Nougat / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2481",
+          "after": "2479"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-00095",
+      "name": "Fitted Sheet - Jersey - Ash Green / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "645",
+          "after": "643"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-00103",
+      "name": "Fitted Sheet - Jersey - Biscuit / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "183",
+          "after": "181"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-66041",
+      "name": "Fitted Sheet - Jersey - Ivory / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1452",
+          "after": "1449"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-67057",
+      "name": "Fitted Sheet - Jersey - Olive Green / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "591",
+          "after": "589"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-67069",
+      "name": "Fitted Sheet - Jersey - Wild Rose / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1236",
+          "after": "1232"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-67098",
+      "name": "Fitted Sheet - Jersey - Oatmeal / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2233",
+          "after": "2231"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68043",
+      "name": "Fitted Sheet - Jersey - Uni - Sea Green / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1073",
+          "after": "1071"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68076",
+      "name": "Fitted Sheet - Jersey - Bloomy - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "821",
+          "after": "820"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68105",
+      "name": "Fitted Sheet - Jersey - Leafy Dreams - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "795",
+          "after": "794"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68110",
+      "name": "Fitted Sheet - Jersey - Elephant Tales - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "267",
+          "after": "266"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68114",
+      "name": "Fitted Sheet - Jersey - Milky Coffee / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "752",
+          "after": "749"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68171",
+      "name": "Fitted Sheet Jersey - Mini Teddy Bear - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "574",
+          "after": "565"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68196",
+      "name": "Fitted Sheet Jersey - Jollies - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "599",
+          "after": "593"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68197",
+      "name": "Fitted Sheet Jersey - Over the Moon - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1259",
+          "after": "1258"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68199",
+      "name": "Fitted Sheet Jersey - Woolly - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1008",
+          "after": "1005"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68200",
+      "name": "Fitted Sheet Jersey - Soft Plumes - Multicolor / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1386",
+          "after": "1385"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68206",
+      "name": "Fitted Sheet Jersey - Miffy Moments - Light Terra / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "912",
+          "after": "911"
+        }
+      ]
+    },
+    {
+      "sku": "511-501-68207",
+      "name": "Fitted Sheet - Jersey - Soft Matcha / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "628",
+          "after": "626"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-00001",
+      "name": "Fitted Sheet - Jersey - White / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2936",
+          "after": "2935"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-00093",
+      "name": "Fitted Sheet - Jersey - Nougat / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1918",
+          "after": "1916"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-66041",
+      "name": "Fitted Sheet - Jersey - Ivory / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1018",
+          "after": "1017"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68076",
+      "name": "Fitted Sheet - Jersey - Bloomy - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1487",
+          "after": "1485"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68102",
+      "name": "Fitted Sheet - Jersey - Tiny Park - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "760",
+          "after": "757"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68104",
+      "name": "Fitted Sheet - Jersey - Flower Fairies - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "488",
+          "after": "484"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68154",
+      "name": "Fitted Sheet - Jersey - Animal Friends - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "722",
+          "after": "719"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68156",
+      "name": "Fitted Sheet - Jersey - Miffy Family Farm - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "363",
+          "after": "360"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68159",
+      "name": "Fitted Sheet - Jersey - Pretty Picnic - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1236",
+          "after": "1235"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68171",
+      "name": "Fitted Sheet Jersey - Mini Teddy Bear - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "583",
+          "after": "576"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68196",
+      "name": "Fitted Sheet Jersey - Jollies - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "625",
+          "after": "624"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68197",
+      "name": "Fitted Sheet Jersey - Over the Moon - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1545",
+          "after": "1540"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68198",
+      "name": "Fitted Sheet Jersey - Barn Buddies - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "993",
+          "after": "990"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68199",
+      "name": "Fitted Sheet Jersey - Woolly - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1679",
+          "after": "1677"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68200",
+      "name": "Fitted Sheet Jersey - Soft Plumes - Multicolor / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1525",
+          "after": "1523"
+        }
+      ]
+    },
+    {
+      "sku": "511-507-68207",
+      "name": "Fitted Sheet - Jersey - Soft Matcha / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "719",
+          "after": "717"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-00093",
+      "name": "Fitted Sheet - Jersey - Nougat / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "908",
+          "after": "906"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-00153",
+      "name": "Fitted Sheet - Jersey - Ivory / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "600",
+          "after": "599"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-66095",
+      "name": "Fitted Sheet - Jersey - Teddy Bear - Multicolor / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1206",
+          "after": "1203"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-67069",
+      "name": "Fitted Sheet - Jersey - Wild Rose / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1231",
+          "after": "1229"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68075",
+      "name": "Fitted Sheet - Jersey - On The Go - Multicolor / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "864",
+          "after": "862"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68154",
+      "name": "Fitted Sheet - Jersey - Animal Friends - Multicolor / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "291",
+          "after": "289"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68171",
+      "name": "Fitted Sheet Jersey - Mini Teddy Bear - Multicolor / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "458",
+          "after": "455"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68191",
+      "name": "Fitted Sheet - Jersey - Sand / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "970",
+          "after": "969"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68197",
+      "name": "Fitted Sheet Jersey - Over the Moon - Multicolor / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1032",
+          "after": "1031"
+        }
+      ]
+    },
+    {
+      "sku": "511-565-68207",
+      "name": "Fitted Sheet - Jersey - Soft Matcha / 70/75x140/150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "527",
+          "after": "525"
+        }
+      ]
+    },
+    {
+      "sku": "511-847-00093",
+      "name": "Fitted Sheet Playpen - Jersey - Nougat / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2138",
+          "after": "2136"
+        }
+      ]
+    },
+    {
+      "sku": "511-847-68114",
+      "name": "Fitted Sheet Playpen - Jersey - Milky Coffee / 75x95 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "77",
+          "after": "75"
+        }
+      ]
+    },
+    {
+      "sku": "512-501-00001",
+      "name": "Molton - White / 40/50x80/90 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "4825",
+          "after": "4821"
+        }
+      ]
+    },
+    {
+      "sku": "512-507-00001",
+      "name": "Molton - White / 60x120 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2060",
+          "after": "2045"
+        }
+      ]
+    },
+    {
+      "sku": "512-565-00001",
+      "name": "Molton - White / 70x140 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1492",
+          "after": "1482"
+        }
+      ]
+    },
+    {
+      "sku": "513-511-66095",
+      "name": "Blanket - Jersey Teddy Bear - Multicolor / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "36",
+          "after": "35"
+        }
+      ]
+    },
+    {
+      "sku": "513-511-68075",
+      "name": "Blanket - Jersey - On The Go",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "967",
+          "after": "966"
+        }
+      ]
+    },
+    {
+      "sku": "513-511-68076",
+      "name": "Blanket - Jersey - Bloomy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "926",
+          "after": "924"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-65360",
+      "name": "Blanket - Basic Knit - Nougat / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "996",
+          "after": "995"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-67031",
+      "name": "Blanket - Basic Knit - Ivory / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "929",
+          "after": "919"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68107",
+      "name": "Blanket - Velvet Rib - Milky Coffee / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1410",
+          "after": "1409"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68129",
+      "name": "Blanket - Reversible - Basic - Sherpa - Jersey - Oatmeal / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "527",
+          "after": "526"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68131",
+      "name": "Blanket - Miffy - Biscuit / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "322",
+          "after": "321"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68205",
+      "name": "Blanket - Miffy Moments - Cloudy Blue / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "71",
+          "after": "69"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68207",
+      "name": "Blanket - Basic Sherpa/Jersey - Soft Matcha / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "204",
+          "after": "201"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68208",
+      "name": "Blanket - Basic Sherpa/Jersey - Hazel / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "228",
+          "after": "223"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68213",
+      "name": "Blanket - Sprinkle Knit - Sand / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "924",
+          "after": "921"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68215",
+      "name": "Blanket - Sprinkle Knit - Hazel / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "959",
+          "after": "958"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68217",
+      "name": "Blanket - Sprinkle Knit - Silk Rose / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "616",
+          "after": "614"
+        }
+      ]
+    },
+    {
+      "sku": "516-511-68231",
+      "name": "Blanket - Basic Knit - Hazel / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "543",
+          "after": "542"
+        }
+      ]
+    },
+    {
+      "sku": "516-522-68036",
+      "name": "Blanket - Jungle Jambo - Ash Green / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "105",
+          "after": "106"
+        }
+      ]
+    },
+    {
+      "sku": "516-522-68125",
+      "name": "Blanket - Box Knit - GOTS - Milky Coffee / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "240",
+          "after": "238"
+        }
+      ]
+    },
+    {
+      "sku": "516-522-68208",
+      "name": "Blanket - Basic Sherpa/Jersey - Hazel / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "410",
+          "after": "409"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-65360",
+      "name": "Blanket - Basic Knit/Fleece - Nougat / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2247",
+          "after": "2246"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-66072",
+      "name": "Blanket - Basic Knit/Fleece - Biscuit / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "134",
+          "after": "133"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-67054",
+      "name": "Blanket - Basic Knit/Fleece - Olive Green / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "491",
+          "after": "490"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68035",
+      "name": "Blanket - Cosy Knit - Velvet - Sea Green / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "125",
+          "after": "123"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68120",
+      "name": "Blanket - Basic Knit - Velvet - Oatmeal / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1098",
+          "after": "1096"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68124",
+      "name": "Blanket - Box Knit - Velvet - Warm Sand / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "551",
+          "after": "550"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68214",
+      "name": "Blanket - Sprinkle Knit/Fluffy - Sand / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1078",
+          "after": "1075"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68218",
+      "name": "Blanket - Sprinkle Knit/Fluffy - Silk Rose / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "788",
+          "after": "785"
+        }
+      ]
+    },
+    {
+      "sku": "517-511-68245",
+      "name": "Blanket - Mini Teddy Bear Little Waffle/Fluffy - Multicolor / 75x100 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1036",
+          "after": "1031"
+        }
+      ]
+    },
+    {
+      "sku": "517-522-68035",
+      "name": "Blanket - Cosy Knit - Velvet - Sea Green / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "363",
+          "after": "362"
+        }
+      ]
+    },
+    {
+      "sku": "517-522-68041",
+      "name": "Blanket - Check Knit - Teddy Fleece - Biscuit / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "300",
+          "after": "298"
+        }
+      ]
+    },
+    {
+      "sku": "517-522-68214",
+      "name": "Blanket - Sprinkle Knit/Fluffy - Sand / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "430",
+          "after": "429"
+        }
+      ]
+    },
+    {
+      "sku": "517-522-68245",
+      "name": "Blanket - Mini Teddy Bear Little Waffle/Fluffy - Multicolor / 100x150 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "590",
+          "after": "589"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-00095",
+      "name": "Bath Poncho Terry - Ash Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "624",
+          "after": "623"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-00103",
+      "name": "Bath Poncho Terry - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "469",
+          "after": "468"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-66041",
+      "name": "Bath Poncho Terry - Ivory / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "389",
+          "after": "388"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-67113",
+      "name": "Bath Poncho Terry - Wild Rose / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1701",
+          "after": "1700"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-68139",
+      "name": "Bath poncho Terry - Diego Dog/Charlie Cat - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "618",
+          "after": "614"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-68169",
+      "name": "Bath poncho Terry - Jacquard - Biscuit / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "833",
+          "after": "832"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-68174",
+      "name": "Bath poncho Terry - Miffy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1062",
+          "after": "1060"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-68205",
+      "name": "Bath Poncho Terry - Miffy - Cloudy Blue / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "732",
+          "after": "731"
+        }
+      ]
+    },
+    {
+      "sku": "533-550-68235",
+      "name": "Bath Poncho - Terry - Hippo Happy / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "431",
+          "after": "428"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68133",
+      "name": "Bath Cape Terry - Animals - Dog Diego / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1443",
+          "after": "1409"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68134",
+      "name": "Bath Cape Terry - Animals - Cat Charlie / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1057",
+          "after": "1053"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68169",
+      "name": "Bathcape Terry 75x75cm - Jacquard - Biscuit / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "490",
+          "after": "487"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68174",
+      "name": "Bath Cape Terry - Miffy - Warm Sand / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1120",
+          "after": "1119"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68235",
+      "name": "Bath Cape Terry - Animals - Hippo Happy / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "701",
+          "after": "698"
+        }
+      ]
+    },
+    {
+      "sku": "534-514-68238",
+      "name": "Bath Cape Terry - Animals - Peacock Pavie / 75x75 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "961",
+          "after": "956"
+        }
+      ]
+    },
+    {
+      "sku": "534-836-68102",
+      "name": "Bathcape - Tiny Park",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1440",
+          "after": "1438"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-66095",
+      "name": "Cloth Muslin 70x70cm - Teddy Bear - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3128",
+          "after": "3103"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-67086",
+      "name": "Cloth Muslin 70x70cm - Riverside - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "929",
+          "after": "930"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-67094",
+      "name": "Swaddle Muslin - Miffy - 3 Pack - Nougat / 70x70 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "340",
+          "after": "339"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-67104",
+      "name": "Cloth Muslin 70x70cm - Lovely Birds - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1566",
+          "after": "1563"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68014",
+      "name": "Cloth Muslin 70x70cm - 4 Pack - Olive Green / 70x70 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "955",
+          "after": "953"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68047",
+      "name": "Swaddle Muslin - Miffy - 3 Pack - Multicolor / 70x70 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1802",
+          "after": "1797"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68076",
+      "name": "Cloth Muslin 70x70cm - Small - Bloomy - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2017",
+          "after": "2014"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68102",
+      "name": "Cloth Muslin 70x70cm - Tiny Park - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1127",
+          "after": "1124"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68105",
+      "name": "Cloth Muslin 70x70cm - Leafy Dreams - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3624",
+          "after": "3623"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68110",
+      "name": "Cloth Muslin 70x70cm - Elephant Tales - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1800",
+          "after": "1797"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68154",
+      "name": "Cloth Muslin 70x70cm - Animal Friends - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1991",
+          "after": "1975"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68156",
+      "name": "Swaddle Muslin 70x70cm - Miffy Family Farm - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1211",
+          "after": "1209"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68159",
+      "name": "Swaddle Muslin 70x70cm - Pretty Picnic - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "282",
+          "after": "278"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68196",
+      "name": "Cloth Muslin 70x70cm - Jollies - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2139",
+          "after": "2135"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68197",
+      "name": "Cloth Muslin 70x70cm - Over the Moon - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3460",
+          "after": "3456"
+        }
+      ]
+    },
+    {
+      "sku": "535-851-68198",
+      "name": "Cloth Muslin 70x70cm - Barn Buddies - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2276",
+          "after": "2273"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-66095",
+      "name": "Swaddle Muslin 115x115cm - Teddy Bear - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "968",
+          "after": "964"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-67086",
+      "name": "Swaddle Muslin 115x115cm - Riverside - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "863",
+          "after": "862"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-67100",
+      "name": "Swaddle Muslin 115x115cm - Roarsome - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "794",
+          "after": "796"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-67104",
+      "name": "Swaddle Muslin 115x115cm - Lovely Birds - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "418",
+          "after": "417"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68076",
+      "name": "Swaddle Muslin 115x115cm - Large 115x115cm - Bloomy - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1157",
+          "after": "1153"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68102",
+      "name": "Swaddle Muslin 115x115cm - Tiny Park - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "865",
+          "after": "862"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68104",
+      "name": "Swaddle Muslin 115x115cm - Flower Fairies - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "290",
+          "after": "289"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68105",
+      "name": "Swaddle Muslin 115x115cm - Leafy Dreams - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "162",
+          "after": "161"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68110",
+      "name": "Swaddle Muslin 115x115cm - Elephant Tales - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "680",
+          "after": "677"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68159",
+      "name": "Swaddle Muslin 115x115cm - Pretty Picnic - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "902",
+          "after": "899"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68171",
+      "name": "Cloth Muslin 115x115cm - Mini Teddy Bear - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "62",
+          "after": "63"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68197",
+      "name": "Swaddle Muslin 115x115cm - Over the Moon - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1500",
+          "after": "1498"
+        }
+      ]
+    },
+    {
+      "sku": "535-852-68199",
+      "name": "Swaddle Muslin 115x115cm - Woolly - 2 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1352",
+          "after": "1351"
+        }
+      ]
+    },
+    {
+      "sku": "535-855-00001",
+      "name": "Cloth Muslin 70x70cm - Basic 3-Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1433",
+          "after": "1421"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-66095",
+      "name": "Washcloth Muslin - Teddy Bear - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "5777",
+          "after": "5775"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68076",
+      "name": "Washcloth Muslin - Bloomy - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "872",
+          "after": "871"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68102",
+      "name": "Washcloth Muslin - Tiny Park - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "811",
+          "after": "809"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68110",
+      "name": "Washcloth Muslin - Elephant Tales - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2843",
+          "after": "2841"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68154",
+      "name": "Washcloth Muslin - Animal Friends - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "100",
+          "after": "99"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68159",
+      "name": "Washcloth Muslin - Pretty Picnic - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "137",
+          "after": "136"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68160",
+      "name": "Washcloth Muslin - Kangaroots - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1503",
+          "after": "1502"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68171",
+      "name": "Washcloth Muslin 15x20cm - Mini Teddy Bear - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "515",
+          "after": "509"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68197",
+      "name": "Washcloth Muslin 15x20cm - Over the Moon - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1546",
+          "after": "1545"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68198",
+      "name": "Washcloth Muslin 15x20cm - Barn Buddies - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1356",
+          "after": "1353"
+        }
+      ]
+    },
+    {
+      "sku": "536-848-68199",
+      "name": "Washcloth Muslin 15x20cm - Woolly - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1963",
+          "after": "1960"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-00001",
+      "name": "Mouth Cloth Muslin 31x31cm - Basic - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "35",
+          "after": "21"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-67100",
+      "name": "Mouth Cloth Muslin 31x31cm - Roarsome - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "160",
+          "after": "159"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68075",
+      "name": "Mouth Cloth Muslin 31x31cm - On The Go - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "216",
+          "after": "215"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68102",
+      "name": "Mouth Cloth Muslin 31x31cm - Tiny Park - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "920",
+          "after": "917"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68159",
+      "name": "Mouth Cloth Muslin 31x31cm - Pretty Picnic - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "160",
+          "after": "155"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68171",
+      "name": "Mouth Cloth Muslin 31x31cm - Mini Teddy Bear - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "662",
+          "after": "659"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68197",
+      "name": "Mouth Cloth Muslin 31x31cm - Over the Moon - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2214",
+          "after": "2212"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68198",
+      "name": "Mouth Cloth Muslin 31x31cm - Barn Buddies - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2150",
+          "after": "2144"
+        }
+      ]
+    },
+    {
+      "sku": "537-848-68199",
+      "name": "Mouth Cloth Muslin 31x31cm - Woolly - 3 Pack",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1430",
+          "after": "1421"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-00093",
+      "name": "Changing Pad Cover Terry - Nougat / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "5651",
+          "after": "5649"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-00095",
+      "name": "Changing Pad Cover Terry - Ash Green / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2543",
+          "after": "2540"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-00103",
+      "name": "Changing Pad Cover Terry - Biscuit / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2616",
+          "after": "2614"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-67058",
+      "name": "Changing Pad Cover Terry - Olive Green / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "470",
+          "after": "469"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-67098",
+      "name": "Changing Pad Cover Terry - Oatmeal / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1085",
+          "after": "1081"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-68114",
+      "name": "Changing Pad Cover Terry - Milky Coffee / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3614",
+          "after": "3612"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-68191",
+      "name": "Changing Pad Cover Terry - Sand / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1177",
+          "after": "1176"
+        }
+      ]
+    },
+    {
+      "sku": "550-503-68209",
+      "name": "Changing Pad Cover Terry - Silk Rose / 50_70cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "888",
+          "after": "885"
+        }
+      ]
+    },
+    {
+      "sku": "580-001-68118",
+      "name": "Changing Table Basket - Cloudy Rib - Milky Coffee / 14x18 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "799",
+          "after": "785"
+        }
+      ]
+    },
+    {
+      "sku": "580-001-68119",
+      "name": "Changing Table Basket - Cloudy Rib - Oatmeal / 14x18 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "586",
+          "after": "585"
+        }
+      ]
+    },
+    {
+      "sku": "580-001-68165",
+      "name": "Changing Table Basket - Mini Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "225",
+          "after": "224"
+        }
+      ]
+    },
+    {
+      "sku": "580-001-68219",
+      "name": "Storage Basket - Curlé - Dark Hazel / 14x18 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1556",
+          "after": "1552"
+        }
+      ]
+    },
+    {
+      "sku": "580-010-68118",
+      "name": "Changing Table Basket - Cloudy Rib - Milky Coffee / 30x35 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1671",
+          "after": "1670"
+        }
+      ]
+    },
+    {
+      "sku": "580-010-68219",
+      "name": "Storage Basket - Curlé - Dark Hazel / 30x35 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "988",
+          "after": "987"
+        }
+      ]
+    },
+    {
+      "sku": "580-608-66060",
+      "name": "Storage Basket - Boucle - Naturel / 14x18 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2810",
+          "after": "2809"
+        }
+      ]
+    },
+    {
+      "sku": "580-608-66067",
+      "name": "Storage Basket - Boucle - Biscuit / 14x18 cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1455",
+          "after": "1454"
+        }
+      ]
+    },
+    {
+      "sku": "705-007-68186",
+      "name": "Kids Dinnerset 4-pieces - Jade / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "725",
+          "after": "724"
+        }
+      ]
+    },
+    {
+      "sku": "710-001-68185",
+      "name": "Spoon Silicone - 2 Pack - Blush / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "136",
+          "after": "133"
+        }
+      ]
+    },
+    {
+      "sku": "712-603-68196",
+      "name": "Wooden Block Set - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1646",
+          "after": "1644"
+        }
+      ]
+    },
+    {
+      "sku": "713-604-68196",
+      "name": "Wooden Activity Cube - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1263",
+          "after": "1258"
+        }
+      ]
+    },
+    {
+      "sku": "715-605-66095",
+      "name": "Loops Toy Silicone - Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "521",
+          "after": "520"
+        }
+      ]
+    },
+    {
+      "sku": "715-605-68189",
+      "name": "Loops Toy Silicone - Flowers",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1788",
+          "after": "1787"
+        }
+      ]
+    },
+    {
+      "sku": "719-602-67034",
+      "name": "Flag line - Party Collection",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "431",
+          "after": "430"
+        }
+      ]
+    },
+    {
+      "sku": "720-014-00092",
+      "name": "Silicone Pacifier Case Ø7cm - Caramel / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "335",
+          "after": "334"
+        }
+      ]
+    },
+    {
+      "sku": "720-014-67058",
+      "name": "Silicone Pacifier Case Ø7cm - Olive Green / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "919",
+          "after": "918"
+        }
+      ]
+    },
+    {
+      "sku": "756-001-68160",
+      "name": "Miracle Bath Book Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "182",
+          "after": "180"
+        }
+      ]
+    },
+    {
+      "sku": "757-001-68160",
+      "name": "Bath Memory - Kangaroots",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3149",
+          "after": "3147"
+        }
+      ]
+    },
+    {
+      "sku": "760-001-67078",
+      "name": "Bathdoll - Teddy Bear",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "549",
+          "after": "542"
+        }
+      ]
+    },
+    {
+      "sku": "761-001-68183",
+      "name": "Bath Mat Silicone - Sun - Sand / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1704",
+          "after": "1677"
+        }
+      ]
+    },
+    {
+      "sku": "762-105-68171",
+      "name": "Sleeping bag with legs and removable sleeves - Mini Teddy Bear - Multicolor / 104/110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "142",
+          "after": "139"
+        }
+      ]
+    },
+    {
+      "sku": "762-105-68196",
+      "name": "Sleeping bag with legs and removable sleeves - Jollies - Multicolor / 104/110cm",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "345",
+          "after": "343"
+        }
+      ]
+    },
+    {
+      "sku": "763-097-68219",
+      "name": "Cosy Poncho - Teddy Fleece",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "429",
+          "after": "425"
+        }
+      ]
+    },
+    {
+      "sku": "763-097-68230",
+      "name": "Cosy Poncho - Miffy Jacquard Teddy",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "583",
+          "after": "580"
+        }
+      ]
+    },
+    {
+      "sku": "763-097-68234",
+      "name": "Outdoor Poncho Waterrepellent - Mini Teddy Bear/Teddy Fleece",
+      "fields": [
+        {
+          "field": "availability",
+          "label": "Διαθεσιμότητα",
+          "before": "Διαθέσιμο έως 30 εργάσιμες",
+          "after": "Εξαντλημένο"
+        },
+        {
+          "field": "in_stock",
+          "label": "Σε απόθεμα",
+          "before": "1",
+          "after": "0"
+        },
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "60",
+          "after": "0"
+        }
+      ]
+    },
+    {
+      "sku": "765-001-68196",
+      "name": "Wooden Activity Board - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1278",
+          "after": "1275"
+        }
+      ]
+    },
+    {
+      "sku": "766-001-68236",
+      "name": "Wooden Gift Set - Jollies - Bunny Luz / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1013",
+          "after": "1012"
+        }
+      ]
+    },
+    {
+      "sku": "766-001-68243",
+      "name": "Wooden Gift Set - Jollies - Bear Brave / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "612",
+          "after": "610"
+        }
+      ]
+    },
+    {
+      "sku": "767-001-68196",
+      "name": "Wooden Train Set - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "1307",
+          "after": "1304"
+        }
+      ]
+    },
+    {
+      "sku": "768-001-68196",
+      "name": "Activity Playmat - Jollies",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "335",
+          "after": "334"
+        }
+      ]
+    },
+    {
+      "sku": "770-001-68236",
+      "name": "Wooden Rocking Ring Stacker - Jollies - Bunny Luz / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "2890",
+          "after": "2886"
+        }
+      ]
+    },
+    {
+      "sku": "770-001-68241",
+      "name": "Wooden Rocking Ring Stacker - Jollies - Alpaca Paco / One Size",
+      "fields": [
+        {
+          "field": "stock",
+          "label": "Απόθεμα Jollein",
+          "before": "3243",
+          "after": "3242"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "added": 0,
+    "removed": 0,
+    "changed": 562,
+    "price": 0,
+    "stock": 562,
+    "availability": 1
+  },
+  "source_checked_at": "2026-11-14T12:33:02.663382+00:00",
+  "generated_at": "2026-11-14T12:33:03.562820+00:00",
+  "run_url": "https://github.com/salesstorgi-commits/jollein-xml-feed/actions/runs/43592071951",
+  "reason": "refresh"
+}
