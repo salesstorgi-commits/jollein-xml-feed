@@ -1,7 +1,7 @@
 {
   "source": "https://jollein.com",
-  "source_checked_at": "2026-11-21T13:50:22.352091+00:00",
-  "generated_at": "2026-11-21T13:50:23.592341+00:00",
+  "source_checked_at": "2026-11-22T13:37:45.396411+00:00",
+  "generated_at": "2026-11-22T13:37:46.970606+00:00",
   "product_count": 1582,
   "source_product_count": 795,
   "markup_percent": 20,
@@ -13,10 +13,10 @@
   "change_summary": {
     "added": 0,
     "removed": 0,
-    "changed": 496,
+    "changed": 573,
     "price": 0,
-    "stock": 496,
-    "availability": 2
+    "stock": 573,
+    "availability": 0
   },
-  "xml_sha256": "d6e52d8341b0f2604a3da2309c612d6b1a06a77eb1392dc6d7564d12b1b1bd4a"
+  "xml_sha256": "5a814694c615a9866890c89c85a09b92fe35e5f3d329c16e0db04b56eeae20c7"
 }
